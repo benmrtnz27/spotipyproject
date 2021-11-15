@@ -18,10 +18,10 @@ Things I need to fix/add/adjust:
     Make the website ask for the inputs, have those inputs be written into a text file in which this program will read it produce its output into a following text file which the webpage will display
 """
 
-os.environ['SPOTIPY_CLIENT_ID'] = ''
-os.environ['SPOTIPY_CLIENT_SECRET'] = ''
-os.environ['SPOTIPY_REDIRECT_URI'] = ''
-os.environ['SPOTIFY_AUTH_TOKEN'] = ''
+#s.environ['SPOTIPY_CLIENT_ID']
+#s.environ['SPOTIPY_CLIENT_SECRET']
+#s.environ['SPOTIPY_REDIRECT_URI']
+#s.environ['SPOTIFY_AUTH_TOKEN']
 
 username = 'benmrtnz27'
 scope = 'playlist-modify-public'
