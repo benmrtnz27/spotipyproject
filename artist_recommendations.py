@@ -18,10 +18,10 @@ Things I need to fix/add/adjust:
     Make the website ask for the inputs, have those inputs be written into a text file in which this program will read it produce its output into a following text file which the webpage will display
 """
 
-os.environ['SPOTIPY_CLIENT_ID'] = 'f9f472da67744fb597e22be51dcbe9f8'
-os.environ['SPOTIPY_CLIENT_SECRET'] = 'f2a80d0db87940ee90109939e22f23f7'
-os.environ['SPOTIPY_REDIRECT_URI'] = 'http://localhost:8888/callback'
-os.environ['SPOTIFY_AUTH_TOKEN'] = "BQAAbjy3wXrzyrzg31pWK2sCx7X39s8LobxhsMoVfNB78jUdKOZhFzQZF9M1JCijEG56L6rBmtsfbb6pSGhRZxnBQnEyMvprG0z5MYm4xVhQxmQmOZ0YnItYdbKddsVHkcF3NW2NSCMEmBFineBKtpiOWZD-bVIih2WhUFhyUu_oOphqJolhstFiz6Hc1bzXYhTL-ZWSiw5ZDFgWPw1tQFfRKpA1ENbAyN3ezMZ_DmHjBitX_zpmjg5M-JgDYBf_LYLPGfs3zNT_OnbhN51v7BETKu7Et5KVnC9InNc"
+os.environ['SPOTIPY_CLIENT_ID'] = ''
+os.environ['SPOTIPY_CLIENT_SECRET'] = ''
+os.environ['SPOTIPY_REDIRECT_URI'] = ''
+os.environ['SPOTIFY_AUTH_TOKEN'] = ''
 
 username = 'benmrtnz27'
 scope = 'playlist-modify-public'
